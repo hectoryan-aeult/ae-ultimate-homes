@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const stats = [
-  { number: "15+", label: "Years Experience" },
+  { number: "50+", label: "Years Combined Experience" },
   { number: "100%", label: "Client Satisfaction" },
 ];
 
@@ -23,15 +23,16 @@ export default function About() {
               About Us
             </span>
             <h2 className="text-3xl sm:text-4xl font-bold text-charcoal mt-3 mb-6">
-              Building Excellence
+              Building Excellence,
               <br />
-              Since 2009
+              Crafted With Experience
             </h2>
             <p className="text-gray-600 leading-relaxed mb-4">
               AE Ultimate Homes was founded with a simple mission: to design and
-              build homes that stand the test of time. With over 15 years of
-              experience in the industry, we&apos;ve earned a reputation for
-              quality craftsmanship and innovative design.
+              build homes that stand the test of time. With over 50 years of
+              combined experience in design and construction, our team brings
+              a wealth of knowledge from a diverse range of exciting projects
+              to every home we create.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
               Our team of architects, designers, and builders work together

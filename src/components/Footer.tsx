@@ -14,7 +14,7 @@ export default function Footer() {
             </div>
             <p className="text-sm leading-relaxed">
               Designing and building dream homes with passion, precision, and
-              uncompromising quality since 2009.
+              uncompromising quality.
             </p>
           </div>
 
